@@ -3783,15 +3783,3 @@ input, select, textarea {
 			}
 
 		}
-
-/* Ad-hoc */
-
-	img.profile {
-		width: 25%;
-	}
-	
-	@media (max-width: 500px) {
-		img.profile {
-			width: 50%;
-		}
-	}
